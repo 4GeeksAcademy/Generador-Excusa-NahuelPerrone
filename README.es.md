@@ -3,8 +3,8 @@
 Empieza a programar un sitio web JS/HTML/CSS en 30 segundos abriendo esta plantilla con nuestro puente de [One-Click Coding](https://s.4geeks.com/start?repo=https://github.com/4GeeksAcademy/vanillajs-hello) o localmente en tu computador.
 
 ## Antes de empezar
-
-Una vez tu editor de codigo este abierto, instala los paquetes escribiendo: `npm install`.
+npm install
+Una vez tu editor de codigo este abierto, instala los paquetes escribiendo: ``.
 
 ### ¿Cómo ejecuto mi sitio web para ver los cambios en vivo?
 
